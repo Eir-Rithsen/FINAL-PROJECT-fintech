@@ -27,3 +27,6 @@ Esta es una API REST desarrollada como entrega final para el curso de TechLab. P
 ```bash
 npm install
 npm run start
+```
+## IMPORTANTE
+⚠️ Para correr este proyecto, se necesita un archivo firebase-service-account.json que contiene las credenciales privadas. Este archivo no está en el repositorio por razones de seguridad. Si sos evaluador del proyecto, contactame para recibirlo y poder probarlo.
